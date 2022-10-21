@@ -1,0 +1,10 @@
+<template>
+  Sign up
+</template>
+
+<script setup> 
+</script>
+
+<style>
+
+</style>
