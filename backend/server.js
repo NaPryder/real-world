@@ -11,7 +11,7 @@ const articlesRoute = require('./routes/article.route')
 const tagRoute = require('./routes/tag.route')
 
 const app = express()
-const PORT = process.env.PORT || 3000
+const PORT = process.env.NODE_LOCAL_PORT || 3000
 
 
 const syncDB = async () => {

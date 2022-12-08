@@ -1,7 +1,7 @@
 <template>
 
   <ArticlePreviews :multipleArticles="multipleArticles">
-    Global Feed
+    <!-- Global Feed -->
   </ArticlePreviews>
 </template>
 

@@ -50,7 +50,7 @@
 
 <script setup>
 import { useRoute } from 'vue-router'
-import ArticlePreviews from '@/components/ArticlePrviews.vue'
+import ArticlePreviews from '@/components/ArticlePreviews.vue'
 
 
 const route = useRoute()

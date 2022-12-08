@@ -1,7 +1,7 @@
 <template>
 
   <ArticlePreviews :multipleArticles="multipleArticles">
-    My Feed
+    <!-- My Feed -->
   </ArticlePreviews>
 </template>
 
